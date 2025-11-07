@@ -6,7 +6,7 @@
 ---
 
 ## Téléchargement
-[TÉLÉCHARGER ZACHARIE.exe → ICI (Release v1.0)](https://github.com/contactpatrickroulette-byte/TESTSERVER29ZACHARIE/releases/download/v1.0/ZACHARIE.exe)
+[TÉLÉCHARGER ZACHARIE.exe → ICI (v1.0)](https://github.com/contactpatrickroulette-byte/TESTSERVER29ZACHARIE/releases/download/v1.0/zacharie-roulette.exe)
 
 ---
 
