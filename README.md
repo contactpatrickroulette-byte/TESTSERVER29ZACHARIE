@@ -19,7 +19,8 @@
 ---
 
 ## Après essai
-10€/mois → Contact : tonemail@gmail.com
+Voir ici les offres  économiques
+(https://www.python-stat-game.fr/8cd6b34a)
 
 ---
 
